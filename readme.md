@@ -3,4 +3,6 @@
 1. https://terrain.party/
 1. https://tangrams.github.io/heightmapper/
 #### Usually, the required size in Gazebo is 2*n+1 which n=1,2,3,4....... (For example 257x257,513x513,1025x1025)
-#### Please
+#### Please use GIMP or Paint to trim into suitable size
+#### Thank for Sarath18 work. We can just gitclone https://github.com/Sarath18/terrain_generator to download Terrain Generator and others things
+
