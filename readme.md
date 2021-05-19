@@ -23,3 +23,13 @@ Enter your choice:
 ```XML
 Enter the location of the heightmap:
 ```
+### If your heightmap is on the right position and right size that match with program, it will shown below
+```XML
+World file destination(Press Enter to pass):
+```
+#### world file destination means the which directory you want put it there
+### Then, you need to choose the time
+```XML
+Enter time of day[24 hrs](hh:mm):
+```
+### Finally, it will build up your customize world
